@@ -1,0 +1,14 @@
+/home/pesha/projects/game/game/bin/Debug/net8.0/game
+/home/pesha/projects/game/game/bin/Debug/net8.0/game.deps.json
+/home/pesha/projects/game/game/bin/Debug/net8.0/game.runtimeconfig.json
+/home/pesha/projects/game/game/bin/Debug/net8.0/game.dll
+/home/pesha/projects/game/game/bin/Debug/net8.0/game.pdb
+/home/pesha/projects/game/game/obj/Debug/net8.0/game.GeneratedMSBuildEditorConfig.editorconfig
+/home/pesha/projects/game/game/obj/Debug/net8.0/game.AssemblyInfoInputs.cache
+/home/pesha/projects/game/game/obj/Debug/net8.0/game.AssemblyInfo.cs
+/home/pesha/projects/game/game/obj/Debug/net8.0/game.csproj.CoreCompileInputs.cache
+/home/pesha/projects/game/game/obj/Debug/net8.0/game.dll
+/home/pesha/projects/game/game/obj/Debug/net8.0/refint/game.dll
+/home/pesha/projects/game/game/obj/Debug/net8.0/game.pdb
+/home/pesha/projects/game/game/obj/Debug/net8.0/game.genruntimeconfig.cache
+/home/pesha/projects/game/game/obj/Debug/net8.0/ref/game.dll
